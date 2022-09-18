@@ -25,7 +25,7 @@ git clone https://github.com/wildanfaz/backendgolang2_week3.git
 
 **Client:** -
 
-**Server:** JavaScript, PostgreSQL, Node.js
+**Server:** JavaScript, PostgreSQL, Node.js, Express.js
     
 ## Author
 
