@@ -14,8 +14,12 @@ git clone https://github.com/wildanfaz/backendgolang2_week3.git
 
 - CRUD
 - Search Query
-- Hashing Password
+- Hashing Password (bcrypt)
 - Pagination
+- JWT
+- Multer
+- Authentication
+- Authorization
 
 ## Tech Stack
 
