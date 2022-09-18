@@ -10,6 +10,6 @@ Tickitz app part 1
 git clone https://github.com/wildanfaz/backendgolang2_week3.git
 ```
     
-## Authors
+## Author
 
 - [@wildanfaz](https://www.github.com/wildanfaz)
