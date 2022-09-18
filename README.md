@@ -1,5 +1,4 @@
-
-# Backend Golang 2 Week 2
+# Backend Golang 2 Week 3
 
 JavaScript week 3
 
