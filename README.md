@@ -9,6 +9,19 @@ Tickitz server-side app part 1
 ```bash
 git clone https://github.com/wildanfaz/backendgolang2_week3.git
 ```
+
+## Features
+
+- CRUD
+- Search Query
+- Hashing Password
+- Pagination
+
+## Tech Stack
+
+**Client:** -
+
+**Server:** JavaScript, PostgreSQL, Node.js
     
 ## Author
 
